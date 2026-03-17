@@ -1,5 +1,5 @@
 ## 🛠 Pipeline Architecture
-![SIEM Pipeline Architecture](<img width="850" height="1100" alt="siem-pipeline drawio(1)" src="https://github.com/user-attachments/assets/200489e7-212e-40cb-aafa-4c04a03cf4d5" />)
+<img width="850" height="1100" alt="siem-pipeline drawio(1)" src="https://github.com/user-attachments/assets/29175166-83e1-4bd3-9c3d-23f7a8c0bb2e" />
 
 ### 1. Data Collection & Normalization
 * **Endpoints:** Sysmon (Windows) and SysmonForLinux (Debian) capture kernel-level telemetry.
